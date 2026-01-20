@@ -1,0 +1,6 @@
+{"user": {"id": 101, "name": "Aaditya Saini", 
+"email": "aaditya@example.com", "age": 22,
+ "isActive": true}, "skills": ["HTML", "CSS", "JavaScript", "Python", "SQL"],
+  "address": {"city": "Delhi", "state": "Delhi", "country": "India"}, "projects":
+   [{"projectId": 1, "title": "Portfolio Website", "status": "Completed"},
+    {"projectId": 2, "title": "Data Analysis Dashboard", "status": "In Progress"}], "isActive": false}
